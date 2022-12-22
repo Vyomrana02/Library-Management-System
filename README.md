@@ -76,7 +76,7 @@ Manual process of keeping student records, book records, account details, managi
 
 ## Requirements
 
-[![PHP](https://img.shields.io/static/v1.svg?label=Source%20Code&message=php&logo=php&style=social)](https://vinitshahdeo.github.io/Library-Management-System/)
+[![PHP](https://img.shields.io/static/v1.svg?label=Source%20Code&message=php&logo=php&style=social)](https://Vyomrana02.github.io/Library-Management-System/)
 
 The source code of this project is written in **PHP**. So, you'll require **WAMP/XAMPP/MAMP** to run this project.
 
@@ -100,30 +100,30 @@ The source code of this project is written in **PHP**. So, you'll require **WAMP
 ```javascript
 
   if (needHelp === true) {
-     var emailId = "vinitshahdeo@gmail.com";
+     var emailId = "Vyomrana02@gmail.com";
      // email is the best way to reach out to me.
      sendEmail(emailId);
   }
 
 ```
 
-Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo).
 
-Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vinitshahdeo/)
+Invite me to connect on [LinkedIn](https://www.linkedin.com/in/Vyomrana02/).
+
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@Vyomrana02&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/Vyomrana02/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@Vyomrana02&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/Vyomrana02/)
 
 ## Are you a [VITian](http://www.vit.ac.in/)?
 
 Looking for the **"J" Component** stuffs, you've landed at right place!
 
-[![dbms report](https://img.shields.io/static/v1.svg?label=DBMS&message=Report&logo=microsoft-word&style=social)](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LMS-DBMS%20Report-Vinit%20Shahdeo.pdf) [![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx) [![OSP report](https://img.shields.io/static/v1.svg?label=OSP&message=Report&logo=microsoft-word&style=social)](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf)
+[![dbms report](https://img.shields.io/static/v1.svg?label=DBMS&message=Report&logo=microsoft-word&style=social)](https://github.com/Vyomrana02/Library-Management-System/raw/master/PROJECT%20REPORT/LMS-DBMS%20Report-Vinit%20Shahdeo.pdf) [![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/Vyomrana02/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx) [![OSP report](https://img.shields.io/static/v1.svg?label=OSP&message=Report&logo=microsoft-word&style=social)](https://github.com/Vyomrana02/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf)
 
-- [Download](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LMS-DBMS%20Report-Vinit%20Shahdeo.pdf) DBMS report
-- [Download](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf) OSP report
-- [Download](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pdf) presentation
+- [Download](https://github.com/Vyomrana02/Library-Management-System/raw/master/PROJECT%20REPORT/LMS-DBMS%20Report-Vinit%20Shahdeo.pdf) DBMS report
+- [Download](https://github.com/Vyomrana02/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf) OSP report
+- [Download](https://github.com/Vyomrana02/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pdf) presentation
 
-> You can use [this](https://github.com/vinitshahdeo/Library-Management-System) project for the following courses : 
+> You can use [this](https://github.com/Vyomrana02/Library-Management-System) project for the following courses : 
 
 | Course Name  | Course Code  |
 |:-:|:-:|
@@ -134,18 +134,18 @@ Looking for the **"J" Component** stuffs, you've landed at right place!
 
 ## License
 
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Library-Management-System.svg?style=social&logo=github)](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE) [![Author](https://img.shields.io/static/v1.svg?label=Author&message=@vinitshahdeo&logo=github&style=social)](https://github.com/vinitshahdeo)
+[![GitHub license](https://img.shields.io/github/license/Vyomrana02/Library-Management-System.svg?style=social&logo=github)](https://github.com/Vyomrana02/Library-Management-System/blob/master/LICENSE) [![Author](https://img.shields.io/static/v1.svg?label=Author&message=@Vyomrana02&logo=github&style=social)](https://github.com/Vyomrana02)
 
-**MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)**
+**MIT &copy; [Vinit Shahdeo](https://github.com/Vyomrana02/Library-Management-System/blob/master/LICENSE)**
 
-[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/7)
+[![](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/images/0)](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/links/0)[![](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/images/1)](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/links/1)[![](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/images/2)](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/links/2)[![](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/images/3)](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/links/3)[![](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/images/4)](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/links/4)[![](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/images/5)](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/links/5)[![](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/images/6)](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/links/6)[![](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/images/7)](https://sourcerer.io/fame/Vyomrana02/Vyomrana02/Library-Management-System/links/7)
 
-<a href="https://twitter.com/Vinit_Shahdeo"><img src="images5/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vinit.shahdeo"><img src="images5/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vinitshahdeo/"><img src="images5/linkedin.png" width="32px" height="32px"></a>
+<a href="https://twitter.com/Vinit_Shahdeo"><img src="images5/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vinit.shahdeo"><img src="images5/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/Vyomrana02/"><img src="images5/linkedin.png" width="32px" height="32px"></a>
 
 ## Oh, Thanks!
 
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://facebook.com/vinit.shahdeo) 
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/Library-Management-System.svg?style=social)](https://twitter.com/intent/tweet?text=Library%20Management%20System%20by@Vinit_Shahdeo%20:&url=https://github.com/vinitshahdeo/Library-Management-System)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/Vyomrana02/Library-Management-System.svg?style=social)](https://twitter.com/intent/tweet?text=Library%20Management%20System%20by@Vyomrana02%20:&url=https://github.com/Vyomrana02/Library-Management-System)
 
 Thank you for being here!
 This project has saved me and my friends for many times in college.
@@ -170,9 +170,9 @@ This project has saved me and my friends for many times in college.
 
 ```
 
-**Share your story([vinitshahdeo@gmail.com](https://mail.google.com/mail/))** if you're using this repo for your mini/course project. I will be more than happy to know how does this project helped you.
+**Share your story([vyom.rana02@gmail.com](https://mail.google.com/mail/))** if you're using this repo for your mini/course project. I will be more than happy to know how does this project helped you.
 
-[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/)
+[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vyom.rana02@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/Vyomrana02) [![GitHub followers](https://img.shields.io/github/followers/Vyomrana02.svg?label=Follow&style=social)](https://github.com/Vyomrana02/)
 
 ------
 
