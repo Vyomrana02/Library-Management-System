@@ -1,7 +1,7 @@
 # Online Library Management System
 #### An interactive web portal for automating various manual processes done by librarian.
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/Library-Management-System.svg?logo=github&style=social)](https://vinitshahdeo.github.io/Library-Management-System/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Library-Management-System.svg?logo=git&style=social)](https://vinitshahdeo.github.io/Library-Management-System/) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Library-Management-System.svg?style=social&logo=github)](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Vyomrana02/Library-Management-System.svg?logo=github&style=social)](https://Vyomrana02.github.io/Library-Management-System/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Vyomrana02/Library-Management-System.svg?logo=git&style=social)](https://Vyomrana02.github.io/Library-Management-System/) [![GitHub license](https://img.shields.io/github/license/Vyomrana02/Library-Management-System.svg?style=social&logo=github)](https://github.com/Vyomrana02/Library-Management-System/blob/master/LICENSE)
 
 ## Abstract
 
@@ -11,11 +11,11 @@
 
 Manual process of keeping student records, book records, account details, managing employee is very difficult. There are various problems also faced by the student in library such as finding any particular book, information whether book is available or not, for what time this book will be available, searching of books using ISBN number etc. To eliminate this manual system, **Library Management System** has been developed.
 
-[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx) [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf)
+[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/Vyomrana02/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx) [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/Vyomrana02/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf)
 
-> **You can download the report [here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf). To download the presentation, [click here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx).**
+> **You can download the report [here](https://github.com/Vyomrana02/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf). To download the presentation, [click here](https://github.com/Vyomrana02/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx).**
 
-> **You can check the screenshots of User Interface [here](https://github.com/vinitshahdeo/Library-Management-System/tree/master/screenshots).**
+> **You can check the screenshots of User Interface [here](https://github.com/Vyomrana02/Library-Management-System/tree/master/screenshots).**
 
 ## Core Features
 
